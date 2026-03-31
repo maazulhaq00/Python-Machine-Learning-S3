@@ -1,0 +1,9 @@
+linear reg
+y=mx+c
+
+slope (m) = (y2-y1)/(x2-x1)
+c -> y-intercept
+
+price = 356.78(area)+6678
+
+scikit learn --> ml
